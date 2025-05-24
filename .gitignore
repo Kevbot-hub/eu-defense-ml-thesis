@@ -186,3 +186,4 @@ data/external/*
 # Outputs
 outputs/*
 !outputs/.gitkeep
+.Rproj.user

@@ -172,3 +172,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# R files
+.Rhistory
+.RData
+
+# Data files (don't track your raw or processed data in git)
+data/raw/*
+data/processed/*
+data/external/*
+!*/.gitkeep
+
+# Outputs
+outputs/*
+!outputs/.gitkeep

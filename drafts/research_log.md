@@ -23,7 +23,7 @@
 - Renamed columns and removed missing values for key variables.
 - Saved the cleaned data as `/data/processed/eda_defense_spending.csv`.
 - Script used:
-    - `/scripts/clean_defense_spending.R`
+    - `scripts/r/clean_defense_spending.R`
 - No major issues encountered after resolving column name matching.
 - **Next steps:** Exploratory analysis, summary statistics, and visualization of defense spending trends.
 
